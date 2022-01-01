@@ -32,7 +32,7 @@ I Developed food order website using PHP and MySQL
 
 ## Follow Me on
 1. LinkedIn - [pwnbisht](https://www.linkedin.com/in/pwnbisht/ "Pawan Bisht on LinkedIn")
-2. Instagram - [@pwnbisht](https://www.instagram/pwnbisht/ "Pawan Bisht on Instagram")
+2. Instagram - [@pwnbisht](https://www.instagram.com/pwnbisht/ "Pawan Bisht on Instagram")
 3. Facebook - [@pwn.bisht](https://www.facebook.com/pwn.bisht/ "Pawan Bisht on Facebook")
 
 
